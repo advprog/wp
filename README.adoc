@@ -8,3 +8,12 @@
 ## Różne
 
 . http://www.drregex.com/2018/09/a-regex-i-submitted-to-reddit-climbed.html?m=1[How to Match "A B C" where A+B=C]
+. https://github.com/usmanbashir/haikunator[Haikunator] – generate Heroku-like memorable random names to use in your apps or anywhere else
++
+[source,ruby]
+----
+require 'haikunator'
+
+Haikunator.haikunate
+Haikunator.haikunate(0)
+----
