@@ -1,6 +1,7 @@
 ## Warsztat programisty
 
 . https://github.com/dylanaraps/pure-bash-bible[pure bash bible]
+. https://github.com/jlevy/the-art-of-command-line[The Art of Command Line]
 . https://www.katacoda.com/courses/container-runtimes/what-is-a-container[What is a container?]
 . https://bash.0x1fff.com/index.html[#!/bin/bash]
 
