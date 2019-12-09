@@ -18,3 +18,37 @@ require 'haikunator'
 Haikunator.haikunate
 Haikunator.haikunate(0)
 ----
++
+[source,bash]
+----
+for i in {1..10}; do ./generate_name ; done
+----
+
+# Group 1
+
+[source,plain]
+.add cursor below
+----
+Linux: Shift + Alt + Arrow Keys
+  Mac:   Alt + Cmd + Arrow Keys
+----
+
+. late-firefly-1258
+
+. wandering-thunder-4721
+
+. young-wave-2403
+
+. lingering-feather-6960
+
+. snowy-dream-2957
+
+. damp-dew-211
+
+. spring-dawn-2796
+
+. holy-water-7253
+
+. shy-surf-7882
+
+. billowing-brook-1679
