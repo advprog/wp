@@ -1,2 +1,10 @@
-# wp
-Warsztat programisty.
+## Warsztat programisty
+
+. https://github.com/dylanaraps/pure-bash-bible[pure bash bible]
+. https://www.katacoda.com/courses/container-runtimes/what-is-a-container[What is a container?]
+. https://bash.0x1fff.com/index.html[#!/bin/bash]
+
+
+## Różne
+
+. http://www.drregex.com/2018/09/a-regex-i-submitted-to-reddit-climbed.html?m=1[How to Match "A B C" where A+B=C]
